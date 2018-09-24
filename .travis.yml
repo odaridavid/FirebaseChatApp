@@ -1,6 +1,5 @@
 language: android
 android:
-
      components:
       - tools
       - platform-tools
@@ -8,10 +7,9 @@ android:
       - build-tools-27.0.3
       - android-27
       - sys-img-armeabi-v7a-android-22
-
      sudo: required
      before_install:
       - chmod +x gradlew
-      script:
-        - ./gradlew clean build -i --continue
+     script:
+      - ./gradlew clean build -i --continue
 
