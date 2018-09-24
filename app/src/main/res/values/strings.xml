@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Friendly Chat</string>
+    <string name="app_name">Chatty</string>
     <string name="sign_out">Sign Out</string>
     <string name="send_button_label">Send</string>
 </resources>
