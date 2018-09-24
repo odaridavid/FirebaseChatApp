@@ -7,6 +7,8 @@ android:
       - build-tools-27.0.3
       - android-27
       - sys-img-armeabi-v7a-android-22
+      - extra-android-support
+      - extra-android-m2repository
      sudo: required
      before_install:
       - chmod +x gradlew
