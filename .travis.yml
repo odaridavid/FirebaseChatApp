@@ -10,6 +10,7 @@ android:
       - sys-img-armeabi-v7a-android-22
       - extra-android-support
       - extra-android-m2repository
+      - extra-google-m2repository
      sudo: required
      before_install:
       - chmod +x gradlew
