@@ -12,7 +12,7 @@ Chatty is an app that allows users to send and receive text and photos in realti
 Setup requires creating a Firebase project. See https://firebase.google.com/ for more information.
 
 ## Screenshots
-| [![Screen1](../art/LoginActivity.png)]()  | [![Screen2](../art/LoginActivity_2.png)]() | [![Screen3](../art/Permissions.png)]() |[![Screen4](../art/MainActivity.png)]() |
+| [![Screen1](art/LoginActivity.png)]()  | [![Screen2](art/LoginActivity_2.png)]() | [![Screen3](art/Permissions.png)]() |[![Screen4](art/MainActivity.png)]() |
 |:---:|:---:|:---:|:---:|
 | Login Activity | Login Activity | Permissions | Main Activity |
 
